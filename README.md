@@ -20,6 +20,6 @@ Dataset di atur secara random dan diedit menurut warna palletnya masing masing. 
 Terdapat 50 file pada setiap labelnya dengan format .jpg
 
 ### AUTHORS
-- Dinda Puspa Aprilia - 202010370311261 (https://github.com/dindapuspaaprilia)
-- Muhammad Arvanda Fildza Aliffa Putra - 202010370311285 (https://github.com/arvandza)
-- Prayogi Putra Deluhula - 20081104061 (https://github.com/pdeluhula)
+- Dinda Puspa Aprilia - 202010370311261 [Dinda](https://github.com/dindapuspaaprilia)
+- Muhammad Arvanda Fildza Aliffa Putra - 202010370311285 [Arvanda](https://github.com/arvandza)
+- Prayogi Putra Deluhula - 20081104061 [Prayogi](https://github.com/pdeluhula)
