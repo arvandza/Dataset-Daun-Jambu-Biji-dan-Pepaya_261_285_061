@@ -15,7 +15,10 @@ Dataset di atur secara random dan diedit menurut warna palletnya masing masing. 
        001.jpg
        002.jpg
     >> README.md
-    
+```
+## FORMAT FILE
+Terdapat 50 file pada setiap labelnya dengan format .jpg
+
 ### AUTHORS
 - Dinda Puspa Aprilia - 202010370311261 (https://github.com/dindapuspaaprilia)
 - Muhammad Arvanda Fildza Aliffa Putra - 202010370311285 (https://github.com/arvandza)
