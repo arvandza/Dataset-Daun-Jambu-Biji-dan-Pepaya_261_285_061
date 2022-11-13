@@ -2,7 +2,7 @@
 Dataset ini merupakan kumpulan beberapa jenis daun herbal, pada dataset ini terdapat daun jambu biji dan pepaya. Terdapat 50 foto pada setiap label jenis daun dengan format (.jpg). Dataset yang dikumpulkan bertujuan untuk bahan penelitian dan mengidentifikasi jenis daun dari tanaman herbal dengan menggunakan metode Kecerdasan Buatan (Artifical Intelligence)
 
 ## OVERVIEW IMAGE
-<img src="https://github.com/arvandza/Dataset-Daun-Jambu-Biji-dan-Pepaya_261_285_061/tree/main/image" width="300" height="300">
+<img src="https://github.com/arvandza/Dataset-Daun-Jambu-Biji-dan-Pepaya_261_285_061/tree/main/image/overview_dataset.jpg" width="300" height="300">
 
 ## METODOLOGI PENGUMPULAN DATA
 Pengumpulan data dilakukan dengan cara mengambil sampel daun tanaman herbal kemudian difoto menggunakan smartphone dengan ukuran foto 1600 x 1200 pixel.
